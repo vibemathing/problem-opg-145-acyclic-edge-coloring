@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-opg-145-acyclic-edge-coloring`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1358797649`
+- Repository node ID: `R_kgDOUP2bUQ`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:opg-145-acyclic-edge-coloring`
+- ProblemContract SHA-256: `1036a59ee6a6edec2bad7e36990280a5ef127704f5b0cefd97e354494c7e8fca`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.0`
 - Suite manifest SHA-256: `7dfdb41a68bfda314d663ba03b4b2a713ea194168ade5287e58c6434be5cc4fb`
-- Harness snapshot SHA-256: `2e5a81b661248d816f60d55ad7f5eaa6000fa64fb92820cf305e48652aed6262`
+- Harness snapshot SHA-256: `ba2fc702303aaa41c6e4db8ad8f5aa68772a7e3f6a74ef634f14bbb962942c9a`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
