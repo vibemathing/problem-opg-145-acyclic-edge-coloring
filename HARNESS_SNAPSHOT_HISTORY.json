@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "harness_snapshot_sha256": "ba2fc702303aaa41c6e4db8ad8f5aa68772a7e3f6a74ef634f14bbb962942c9a",
+      "harness_version": "1.1.0",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "7dfdb41a68bfda314d663ba03b4b2a713ea194168ade5287e58c6434be5cc4fb",
+      "tree_sha256": "29bd649ee8df302f115e41a4c5cf27e9aa46c6cc497dbe848b94a109bbfb34a4"
+    },
+    {
+      "harness_snapshot_sha256": "6128355ae47949b3d58b370384eb30921f63fcefc85197b3b0562d3ae5f38cc6",
+      "harness_version": "1.2.4",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
+      "tree_sha256": "a864367271e4845c8c786e6c53e3db2bfa824b709d984e025dee37049620625d"
+    }
+  ],
+  "repository": "vibemathing/problem-opg-145-acyclic-edge-coloring",
+  "repository_identity": {
+    "database_id": 1358797649,
+    "default_branch": "main",
+    "node_id": "R_kgDOUP2bUQ",
+    "visibility": "public"
+  },
+  "schema_version": "1.0.0"
+}
